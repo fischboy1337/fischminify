@@ -1,1 +1,1 @@
-# fischminify
+# FischMinify
